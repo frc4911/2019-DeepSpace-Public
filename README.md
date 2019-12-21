@@ -22,7 +22,6 @@ Team 4911's 2019 Codebase
 * Run `./gradlew build` to build the code.  Use the `--info` flag for more details
 * Run `./gradlew assemble` to build the code without running all unit tests.  Use the `--info` flag for more details
 * Run `./gradlew test` to run all of the JUnit tests
-# Quick Commands
 
 ## Projects
 We break our code up into robot code and the cheesylib library. 
